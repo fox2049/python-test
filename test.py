@@ -1,5 +1,5 @@
 with open("test.txt", "a+") as f:
-    f.write("i love you")
+    f.write("i loveyuwaiwen")
 with open("test.txt", "a+") as f:
     a = f.read()
     print(a)
